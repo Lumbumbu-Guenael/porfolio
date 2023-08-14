@@ -1,0 +1,9 @@
+table,th,td{
+    border: 1px solid gold;
+}
+h1{
+    color: rgb(75, 150, 211);
+}
+h2{
+    color: rgb(127,150,75);
+}
